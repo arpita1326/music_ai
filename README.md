@@ -52,7 +52,7 @@ Then open: http://127.0.0.1:5000
 
 
 
-(Add screenshots here)
+(![app screenshot](<Screenshot 2026-05-04 163116-1.png>))
 
 
 
