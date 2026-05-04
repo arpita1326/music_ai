@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Saved Playlist</title>
+</head>
+
+<body style="font-family:Arial; text-align:center; background:#222; color:white;">
+
+    <h1>❤️ Saved Playlist</h1>
+
+    <a href="/" style="color:white;">⬅ Back to Home</a>
+
+    <ul style="list-style:none;">
+        {% for song in playlist %}
+            <li style="margin:10px;">
+                <a href="https://www.youtube.com/results?search_query={{ song }}" target="_blank" style="color:white;">
+                    {{ song }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>
