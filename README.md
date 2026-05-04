@@ -48,19 +48,20 @@ Then open: http://127.0.0.1:5000
 
 
 
-\## 📸 Screenshots
 
 
 
-(![app screenshot](<Screenshot 2026-05-04 163116-1.png>))
 
+## 📸 Screenshots
+
+![App Screenshot](screenshot.png)
 
 
 \## 🌐 Live Demo
 
 
 
-(Will add after deployment)
+
 
 
 
